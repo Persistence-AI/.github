@@ -60,8 +60,8 @@
 
 ### 🔄 **Persistent Memory System**
 - AI agents remember context across sessions
-- Episodic and semantic memory integration
-- Long-term project understanding
+- Automatic session compaction for long conversations
+- Workspace and session persistence
 - Contextual code generation
 
 </td>
@@ -273,9 +273,10 @@ We value your feedback and are committed to continuous improvement.
 
 <div align="center">
 
-![GitHub Org](https://img.shields.io/github/orgs/Persistence-AI?label=Organization&style=for-the-badge&logo=github)
-![GitHub Repos](https://img.shields.io/github/orgs/Persistence-AI/repos?label=Repositories&style=for-the-badge&logo=github)
-![Website](https://img.shields.io/website?down_message=Offline&label=Website&style=for-the-badge&up_message=Online&url=https://persistence-ai.github.io/Landing/)
+[![GitHub Stars](https://img.shields.io/github/stars/Persistence-AI/Landing?label=Stars&style=for-the-badge&logo=github&color=4EC9B0)](https://github.com/Persistence-AI/Landing)
+[![GitHub Forks](https://img.shields.io/github/forks/Persistence-AI/Landing?label=Forks&style=for-the-badge&logo=github&color=4EC9B0)](https://github.com/Persistence-AI/Landing)
+[![Website Status](https://img.shields.io/website?down_message=Offline&label=Website&style=for-the-badge&up_message=Online&url=https://persistence-ai.github.io/Landing/&color=4EC9B0)](https://persistence-ai.github.io/Landing/)
+[![Latest Release](https://img.shields.io/github/v/release/Persistence-AI/Landing?label=Latest%20Release&style=for-the-badge&color=4EC9B0)](https://github.com/Persistence-AI/Landing/releases/latest)
 
 </div>
 
