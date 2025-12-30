@@ -187,12 +187,28 @@ brew install persistenceai       # Homebrew (macOS)
 │                        ▼              ▼                                 │
 │  ┌──────────────────────────────────────────────────────────────────┐  │
 │  │              Terminal IDE & Tool Interface                       │  │
-│  │  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐           │  │
-│  │  │   Editor     │  │  Workspace   │  │   LSP/MCP     │           │  │
-│  │  │  • Syntax    │  │  • File Tree │  │   • Language  │           │  │
-│  │  │  • Search    │  │  • Explorer  │  │   • Context   │           │  │
-│  │  │  • Undo/Redo │  │  • Navigation│  │   • Protocol  │           │  │
-│  │  └──────────────┘  └──────────────┘  └──────────────┘           │  │
+│  │                                                                  │  │
+│  │  ┌──────────────────────────────────────────────────────────┐  │  │
+│  │  │                    AI Chat Interface                      │  │  │
+│  │  │  • User Messages • Agent Responses • Tool Results        │  │  │
+│  │  └───────┬───────────────────────────────┬──────────────────┘  │  │
+│  │          │                               │                     │  │
+│  │          │ (File Operations)              │ (Code Edits)        │  │
+│  │          │                               │                     │  │
+│  │  ┌───────▼───────────┐         ┌─────────▼──────────┐          │  │
+│  │  │  Explorer Pane    │         │   Editor Pane      │          │  │
+│  │  │  • File Tree      │◄────────┤  • Text Editor     │          │  │
+│  │  │  • Navigation     │  Sync  │  • Syntax Highlight│          │  │
+│  │  │  • File Selection │         │  • Search/Replace │          │  │
+│  │  │  • @ File Search  │         │  • Undo/Redo      │          │  │
+│  │  └───────────────────┘         │  • Multi-file     │          │  │
+│  │                                └───────────────────┘          │  │
+│  │                                                                  │  │
+│  │  ┌──────────────────────────────────────────────────────────┐  │  │
+│  │  │              LSP/MCP Integration                          │  │  │
+│  │  │  • Language Server Protocol • Model Context Protocol     │  │  │
+│  │  │  • Code Completion • Diagnostics • Context Providers       │  │  │
+│  │  └──────────────────────────────────────────────────────────┘  │  │
 │  └────────────────────────────┬─────────────────────────────────────┘  │
 │                                │                                          │
 │                                ▼                                          │
