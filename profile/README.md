@@ -47,7 +47,13 @@
 
 <div align="center">
 
-![PersistenceAI TUI Interface](https://persistence-ai.github.io/Landing/assets/tui-home-preview.png)
+### Home Screen
+
+![PersistenceAI TUI Home Screen](https://persistence-ai.github.io/Landing/assets/tui-home-preview.png)
+
+### Multi-Pane Interface
+
+![PersistenceAI TUI Multi-Pane](https://persistence-ai.github.io/Landing/assets/tui-multipane-preview.png)
 
 *Terminal IDE with AI Chat, File Explorer, and Code Editor - All in your terminal*
 
@@ -275,7 +281,7 @@ flowchart TB
 |----------|------|-------------|
 | 🌐 **Website** | [persistence-ai.github.io/Landing](https://persistence-ai.github.io/Landing/) | Main website and documentation |
 | 📖 **Documentation** | [Documentation](https://persistence-ai.github.io/Landing/docs/) | Comprehensive user and developer guides |
-| 🎙️ **Podcast** | [Podcast](https://persistence-ai.github.io/Landing/podcast/) | Listen to our podcast about AI development |
+| 🎙️ **Podcast** | [Podcast](https://persistence-ai.github.io/Landing/podcast.html) | Listen to our podcast about AI development |
 | 🐛 **Issue Tracker** | [GitHub Issues](https://github.com/Persistence-AI/.github/issues) | Report bugs and request features |
 | 💡 **Feature Requests** | [GitHub Issues](https://github.com/Persistence-AI/.github/issues) | Suggest new features and improvements |
 
@@ -328,6 +334,7 @@ Some components may be selectively open-sourced in the future:
 - [ ] **Q2 2025** - GitHub Actions integration and CI/CD workflows
 - [ ] **Q3 2025** - VS Code extension for seamless IDE integration
 - [ ] **Q4 2025** - Desktop application with enhanced UI
+- [ ] **Q1 2026** - IDE feature improvements with editor pane and PersistenceTerminal emulation for application
 - [ ] **Future** - Cloud sync and team collaboration features
 
 ---
