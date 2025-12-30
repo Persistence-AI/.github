@@ -220,6 +220,42 @@ We value your feedback and are committed to continuous improvement.
 
 ---
 
+## 📦 Releases
+
+<div align="center">
+
+**Latest Version:** `1.0.13`
+
+[![Latest Release](https://img.shields.io/github/v/release/Persistence-AI/Landing?label=Latest%20Release&style=for-the-badge)](https://github.com/Persistence-AI/Landing/releases)
+[![Release Date](https://img.shields.io/github/release-date/Persistence-AI/Landing?label=Released&style=for-the-badge)](https://github.com/Persistence-AI/Landing/releases)
+
+</div>
+
+### Recent Releases
+
+| Version | Date | Type | Highlights |
+|---------|------|------|------------|
+| [1.0.13](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.13) | 2025-12-29 | Patch | Chat command fixes |
+| [1.0.12](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.12) | 2025-12-29 | Patch | Visual improvements, file navigation |
+| [1.0.11](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.11) | 2025-12-26 | Patch | ESLint integration |
+| [1.0.10](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.10) | 2025-12-26 | Patch | Major upgrade |
+| [1.0.09](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.09) | 2025-12-23 | Patch | Toast notifications, changelog |
+| [1.0.01](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.01) | 2025-11-14 | Initial | First release with core features |
+
+### Release Channels
+
+- **Stable** - Production-ready releases
+- **Beta** - Pre-release testing (coming soon)
+- **Nightly** - Development builds (internal)
+
+### 📋 Full Release History
+
+- **Changelog:** [CHANGELOG.md](https://github.com/Persistence-AI/Landing/blob/main/CHANGELOG.md)
+- **All Releases:** [GitHub Releases](https://github.com/Persistence-AI/Landing/releases)
+- **Release Notes:** [RELEASES.md](https://github.com/Persistence-AI/.github/blob/main/RELEASES.md)
+
+---
+
 ## 📈 Project Metrics
 
 <div align="center">
