@@ -14,6 +14,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-persistence--ai.github.io/Landing-4EC9B0?style=for-the-badge)](https://persistence-ai.github.io/Landing/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-l-29171422b)
+[![Twitter/X](https://img.shields.io/badge/🐦_Twitter/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AiPersiste65218)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:PersistenceAI@proton.me)
 
 ---
@@ -290,6 +291,7 @@ We value your feedback and are committed to continuous improvement.
 
 📧 **Email:** [PersistenceAI@proton.me](mailto:PersistenceAI@proton.me)  
 💼 **LinkedIn:** [Connect with us](https://www.linkedin.com/in/leo-l-29171422b)  
+🐦 **Twitter/X:** [Follow us](https://x.com/AiPersiste65218)  
 🌐 **Website:** [persistence-ai.github.io/Landing](https://persistence-ai.github.io/Landing/)
 
 </div>
