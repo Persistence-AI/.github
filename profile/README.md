@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/PersistenceAI-Enterprise%20Ready-4EC9B0?style=for-the-badge&logo=github&logoColor=white" alt="PersistenceAI Enterprise Ready" />
 
-# 🚀 PersistenceAI
+# 🧠 PersistenceAI
 
 ### **Agentic Coding Multiplexer IDE**
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 🚀 Quick Start
+## 🧠 Quick Start
 
 ### Installation
 
