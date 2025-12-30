@@ -33,6 +33,28 @@
 
 ---
 
+## ⚡ Why PersistenceAI?
+
+- **🤖 Multi-Agent System** - Unlike single-agent tools, coordinate multiple specialized AI agents for complex tasks
+- **💻 Terminal-Native** - Full IDE experience without leaving your terminal workflow
+- **🧠 Persistent Context** - AI agents remember your project context across sessions
+- **🏢 Enterprise-Ready** - Built for professional development teams with production-grade reliability
+- **🔌 Flexible Integration** - Support for local models (Ollama) and cloud providers (OpenAI, Anthropic, Google, etc.)
+
+---
+
+## 🖥️ Preview
+
+<div align="center">
+
+![PersistenceAI TUI Interface](https://persistence-ai.github.io/Landing/assets/tui-home-preview.png)
+
+*Terminal IDE with AI Chat, File Explorer, and Code Editor - All in your terminal*
+
+</div>
+
+---
+
 ## ✨ Core Capabilities
 
 <table>
@@ -40,19 +62,22 @@
 <td width="50%">
 
 ### 🤖 **Multi-Agent Architecture**
-- Orchestrate multiple specialized AI agents
-- Parallel task execution and coordination
-- Intelligent agent selection and routing
-- Context-aware agent communication
+- **Oligarchy Agent** - Consensus-based decision making with voting
+- **Specialized Agents** - Build, Plan, Review, Debug agents with specific roles
+- **Subagents** - Invoke specialized agents via @ mentions
+- **Parallel Execution** - Multiple agents work simultaneously on different tasks
+- **Context-Aware Communication** - Agents share context and coordinate automatically
 
 </td>
 <td width="50%">
 
 ### 💻 **Terminal IDE Experience**
-- Full-featured IDE in your terminal
-- Syntax highlighting and code completion
-- Language Server Protocol (LSP) support
-- Real-time error detection and diagnostics
+- **Full-Featured Editor** - Multi-file editing with syntax highlighting
+- **Code Completion** - LSP-powered autocomplete and IntelliSense
+- **Go to Definition** - Navigate codebase with F12 or Ctrl+G
+- **Real-Time Diagnostics** - Error detection and warnings as you type
+- **File Explorer** - Navigate projects with integrated file tree
+- **Search & Replace** - Find and replace across files
 
 </td>
 </tr>
@@ -60,23 +85,37 @@
 <td width="50%">
 
 ### 🔄 **Persistent Memory System**
-- AI agents remember context across sessions
-- Automatic session compaction for long conversations
-- Workspace and session persistence
-- Contextual code generation
+- **Cross-Session Memory** - AI agents remember context across sessions
+- **Automatic Compaction** - Long conversations are automatically summarized
+- **Workspace Persistence** - Project state and sessions are saved
+- **Contextual Generation** - Code generation based on full project context
+- **Episodic & Semantic Memory** - Both short-term and long-term context retention
 
 </td>
 <td width="50%">
 
 ### 🛠️ **Enterprise Tool Integration**
-- Seamless workflow integration
-- Multi-provider AI model support
-- Custom tool and plugin system
-- CI/CD pipeline compatibility
+- **Multi-Provider Support** - OpenAI, Anthropic, Google, Ollama, and more
+- **Model Context Protocol (MCP)** - Connect to external tools and services
+- **Language Server Protocol (LSP)** - Full IDE features with any LSP server
+- **Custom Tools** - Build and integrate custom tools for your workflow
+- **CI/CD Compatible** - Works seamlessly with existing development pipelines
 
 </td>
 </tr>
 </table>
+
+---
+
+## 💡 Use Cases
+
+- **🔧 Code Refactoring** - Multi-agent collaboration for complex refactoring tasks
+- **🐛 Bug Fixing** - AI agents analyze errors, suggest fixes, and implement solutions
+- **✨ Feature Development** - Plan, implement, and review features with AI assistance
+- **📝 Code Review** - Automated code quality checks and improvements
+- **📚 Documentation** - Generate and maintain project documentation automatically
+- **🚀 Rapid Prototyping** - Quickly build and iterate on new features
+- **🔍 Codebase Exploration** - Understand large codebases with specialized agents
 
 ---
 
@@ -109,6 +148,21 @@ npm install -g persistenceai    # Node.js
 bun install -g persistenceai    # Bun
 pnpm install -g persistenceai   # pnpm
 brew install persistenceai       # Homebrew (macOS)
+```
+
+### Quick Example
+
+```bash
+# Start PersistenceAI in your project
+pai tui
+
+# Ask for help with a feature
+@build Can you help me implement user authentication?
+
+# Multiple agents collaborate automatically:
+# - Planning agent creates the architecture
+# - Build agent implements the code
+# - Review agent checks for issues
 ```
 
 ---
@@ -221,6 +275,7 @@ flowchart TB
 |----------|------|-------------|
 | 🌐 **Website** | [persistence-ai.github.io/Landing](https://persistence-ai.github.io/Landing/) | Main website and documentation |
 | 📖 **Documentation** | [Documentation](https://persistence-ai.github.io/Landing/docs/) | Comprehensive user and developer guides |
+| 🎙️ **Podcast** | [Podcast](https://persistence-ai.github.io/Landing/podcast/) | Listen to our podcast about AI development |
 | 🐛 **Issue Tracker** | [GitHub Issues](https://github.com/Persistence-AI/.github/issues) | Report bugs and request features |
 | 💡 **Feature Requests** | [GitHub Issues](https://github.com/Persistence-AI/.github/issues) | Suggest new features and improvements |
 
@@ -254,6 +309,26 @@ Some components may be selectively open-sourced in the future:
 - **Select Utilities** - Non-proprietary helper tools
 
 **Core codebase remains proprietary and enterprise-focused.**
+
+---
+
+## 🔐 Security & Privacy
+
+- **🔒 Local-First** - Run models locally with Ollama for complete privacy
+- **🔑 Secure Credentials** - API keys stored securely in user config
+- **💾 Session Privacy** - All session data stays on your machine
+- **🏢 Enterprise Compliance** - Ready for enterprise security requirements
+- **🌐 Provider Choice** - Use any provider or self-host for maximum control
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] **Q1 2025** - Package manager support (npm, Homebrew, Chocolatey, Scoop)
+- [ ] **Q2 2025** - GitHub Actions integration and CI/CD workflows
+- [ ] **Q3 2025** - VS Code extension for seamless IDE integration
+- [ ] **Q4 2025** - Desktop application with enhanced UI
+- [ ] **Future** - Cloud sync and team collaboration features
 
 ---
 
