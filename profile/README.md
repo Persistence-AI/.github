@@ -166,9 +166,9 @@ brew install persistenceai       # Homebrew (macOS)
 | Resource | Link | Description |
 |----------|------|-------------|
 | 🌐 **Website** | [persistence-ai.github.io/Landing](https://persistence-ai.github.io/Landing/) | Main website and documentation |
-| 📖 **Documentation** | Coming Soon | Comprehensive user and developer guides |
-| 🐛 **Issue Tracker** | [GitHub Issues](https://github.com/Persistence-AI/Landing/issues) | Report bugs and request features |
-| 💡 **Feature Requests** | [GitHub Issues](https://github.com/Persistence-AI/Landing/issues) | Suggest new features and improvements |
+| 📖 **Documentation** | [Documentation](https://persistence-ai.github.io/Landing/docs/) | Comprehensive user and developer guides |
+| 🐛 **Issue Tracker** | [GitHub Issues](https://github.com/Persistence-AI/.github/issues) | Report bugs and request features |
+| 💡 **Feature Requests** | [GitHub Issues](https://github.com/Persistence-AI/.github/issues) | Suggest new features and improvements |
 
 </div>
 
