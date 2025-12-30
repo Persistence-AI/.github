@@ -6,7 +6,11 @@
 
 ### **Agentic Coding Multiplexer IDE**
 
-**Latest Release:** [![Latest Release](https://img.shields.io/github/v/release/Persistence-AI/Landing?label=v1.0.13&style=for-the-badge&color=4EC9B0)](https://github.com/Persistence-AI/Landing/releases/latest) • Released: Dec 30, 2025
+<div align="center">
+
+**📦 Latest Release:** [![Latest Release](https://img.shields.io/github/v/release/Persistence-AI/Landing?label=v1.0.13&style=for-the-badge&color=4EC9B0&link=https://github.com/Persistence-AI/Landing/releases/latest)](https://github.com/Persistence-AI/Landing/releases/latest) • [![Release Date](https://img.shields.io/github/release-date/Persistence-AI/Landing?label=Dec%2030%2C%202025&style=for-the-badge&color=2E8B7A)](https://github.com/Persistence-AI/Landing/releases)
+
+</div>
 
 [![Website](https://img.shields.io/badge/🌐_Website-persistence--ai.github.io/Landing-4EC9B0?style=for-the-badge)](https://persistence-ai.github.io/Landing/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-l-29171422b)
