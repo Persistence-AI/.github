@@ -333,8 +333,8 @@ Some components may be selectively open-sourced in the future:
 - [ ] **Q1 2025** - Package manager support (npm, Homebrew, Chocolatey, Scoop)
 - [ ] **Q2 2025** - GitHub Actions integration and CI/CD workflows
 - [ ] **Q3 2025** - VS Code extension for seamless IDE integration
-- [ ] **Q4 2025** - Desktop application with enhanced UI
-- [ ] **Q1 2026** - IDE feature improvements with editor pane and PersistenceTerminal emulation for application
+- [ ] **Q4 2025** - IDE feature improvements with editor pane
+- [ ] **Q1 2026** - PersistenceTerminal emulation for application
 - [ ] **Future** - Cloud sync and team collaboration features
 
 ---
