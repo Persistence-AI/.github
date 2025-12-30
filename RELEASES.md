@@ -4,7 +4,7 @@ This document tracks all public releases of PersistenceAI.
 
 ## Current Version
 
-**Latest Stable:** `1.0.202`
+**Latest Stable:** `1.0.13`
 
 ## Release Channels
 
@@ -16,7 +16,7 @@ This document tracks all public releases of PersistenceAI.
 
 ## Release History
 
-### [1.0.13] - December 29, 2025
+### [1.0.13] - December 30, 2025
 
 **Type:** Patch Release
 
@@ -26,7 +26,7 @@ This document tracks all public releases of PersistenceAI.
 
 ---
 
-### [1.0.12] - December 29, 2025
+### [1.0.12] - December 27, 2025
 
 **Type:** Patch Release
 
@@ -41,7 +41,7 @@ This document tracks all public releases of PersistenceAI.
 
 ---
 
-### [1.0.11] - December 26, 2025
+### [1.0.11] - December 23, 2025
 
 **Type:** Patch Release
 
@@ -52,7 +52,7 @@ This document tracks all public releases of PersistenceAI.
 
 ---
 
-### [1.0.10] - December 26, 2025
+### [1.0.10] - December 20, 2025
 
 **Type:** Patch Release
 
@@ -62,7 +62,7 @@ This document tracks all public releases of PersistenceAI.
 
 ---
 
-### [1.0.09] - December 23, 2025
+### [1.0.09] - December 16, 2025
 
 **Type:** Patch Release
 
@@ -73,7 +73,7 @@ This document tracks all public releases of PersistenceAI.
 
 ---
 
-### [1.0.08] - December 22, 2025
+### [1.0.08] - December 13, 2025
 
 **Type:** Patch Release
 
@@ -83,7 +83,7 @@ This document tracks all public releases of PersistenceAI.
 
 ---
 
-### [1.0.07] - December 22, 2025
+### [1.0.07] - December 9, 2025
 
 **Type:** Patch Release
 
@@ -94,7 +94,7 @@ This document tracks all public releases of PersistenceAI.
 
 ---
 
-### [1.0.06] - December 22, 2025
+### [1.0.06] - December 6, 2025
 
 **Type:** Patch Release
 
@@ -104,7 +104,7 @@ This document tracks all public releases of PersistenceAI.
 
 ---
 
-### [1.0.05] - December 21, 2025
+### [1.0.05] - December 2, 2025
 
 **Type:** Patch Release
 
@@ -115,7 +115,7 @@ This document tracks all public releases of PersistenceAI.
 
 ---
 
-### [1.0.04] - December 21, 2025
+### [1.0.04] - November 28, 2025
 
 **Type:** Patch Release
 
@@ -125,7 +125,7 @@ This document tracks all public releases of PersistenceAI.
 
 ---
 
-### [1.0.03] - December 16, 2025
+### [1.0.03] - November 25, 2025
 
 **Type:** Patch Release
 
@@ -136,7 +136,7 @@ This document tracks all public releases of PersistenceAI.
 
 ---
 
-### [1.0.02] - December 16, 2025
+### [1.0.02] - November 21, 2025
 
 **Type:** Patch Release
 

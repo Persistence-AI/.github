@@ -235,11 +235,18 @@ We value your feedback and are committed to continuous improvement.
 
 | Version | Date | Type | Highlights |
 |---------|------|------|------------|
-| [1.0.13](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.13) | 2025-12-29 | Patch | Chat command fixes |
-| [1.0.12](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.12) | 2025-12-29 | Patch | Visual improvements, file navigation |
-| [1.0.11](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.11) | 2025-12-26 | Patch | ESLint integration |
-| [1.0.10](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.10) | 2025-12-26 | Patch | Major upgrade |
-| [1.0.09](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.09) | 2025-12-23 | Patch | Toast notifications, changelog |
+| [1.0.13](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.13) | 2025-12-30 | Patch | Chat command fixes |
+| [1.0.12](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.12) | 2025-12-27 | Patch | Visual improvements, file navigation |
+| [1.0.11](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.11) | 2025-12-23 | Patch | ESLint integration |
+| [1.0.10](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.10) | 2025-12-20 | Patch | Major upgrade |
+| [1.0.09](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.09) | 2025-12-16 | Patch | Toast notifications, changelog |
+| [1.0.08](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.08) | 2025-12-13 | Patch | Model branding |
+| [1.0.07](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.07) | 2025-12-09 | Patch | Workspace directory fixes |
+| [1.0.06](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.06) | 2025-12-06 | Patch | Session restore fixes |
+| [1.0.05](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.05) | 2025-12-02 | Patch | Homepage UI redesign |
+| [1.0.04](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.04) | 2025-11-28 | Patch | Version merge |
+| [1.0.03](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.03) | 2025-11-25 | Patch | Chat scroll bar |
+| [1.0.02](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.02) | 2025-11-21 | Patch | Agent system enhancements |
 | [1.0.01](https://github.com/Persistence-AI/Landing/releases/tag/v1.0.01) | 2025-11-14 | Initial | First release with core features |
 
 ### Release Channels
