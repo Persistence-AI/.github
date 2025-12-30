@@ -6,7 +6,7 @@
 
 ### **Agentic Coding Multiplexer IDE**
 
-[![Website](https://img.shields.io/badge/🌐_Website-persistence--ai.github.io/PersistenceAI-4EC9B0?style=for-the-badge)](https://persistence-ai.github.io/PersistenceAI/)
+[![Website](https://img.shields.io/badge/🌐_Website-persistence--ai.github.io/Landing-4EC9B0?style=for-the-badge)](https://persistence-ai.github.io/Landing/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-l-29171422b)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:PersistenceAI@proton.me)
 
@@ -86,11 +86,11 @@
 <div align="center">
 
 ```powershell
-iwr -useb https://persistence-ai.github.io/PersistenceAI/install | iex
+iwr -useb https://persistence-ai.github.io/Landing/install | iex
 ```
 
 ```bash
-curl -fsSL https://persistence-ai.github.io/PersistenceAI/install | bash
+curl -fsSL https://persistence-ai.github.io/Landing/install | bash
 ```
 
 </div>
@@ -158,7 +158,7 @@ brew install persistenceai       # Homebrew (macOS)
 
 | Resource | Link | Description |
 |----------|------|-------------|
-| 🌐 **Website** | [persistence-ai.github.io/PersistenceAI](https://persistence-ai.github.io/PersistenceAI/) | Main website and documentation |
+| 🌐 **Website** | [persistence-ai.github.io/Landing](https://persistence-ai.github.io/Landing/) | Main website and documentation |
 | 📖 **Documentation** | Coming Soon | Comprehensive user and developer guides |
 | 🐛 **Issue Tracker** | [GitHub Issues](https://github.com/Persistence-AI/Landing/issues) | Report bugs and request features |
 | 💡 **Feature Requests** | [GitHub Issues](https://github.com/Persistence-AI/Landing/issues) | Suggest new features and improvements |
@@ -269,7 +269,7 @@ We value your feedback and are committed to continuous improvement.
 
 ![GitHub Org](https://img.shields.io/github/orgs/Persistence-AI?label=Organization&style=for-the-badge&logo=github)
 ![GitHub Repos](https://img.shields.io/github/orgs/Persistence-AI/repos?label=Repositories&style=for-the-badge&logo=github)
-![Website](https://img.shields.io/website?down_message=Offline&label=Website&style=for-the-badge&up_message=Online&url=https://persistence-ai.github.io/PersistenceAI/)
+![Website](https://img.shields.io/website?down_message=Offline&label=Website&style=for-the-badge&up_message=Online&url=https://persistence-ai.github.io/Landing/)
 
 </div>
 
@@ -283,7 +283,7 @@ We value your feedback and are committed to continuous improvement.
 
 📧 **Email:** [PersistenceAI@proton.me](mailto:PersistenceAI@proton.me)  
 💼 **LinkedIn:** [Connect with us](https://www.linkedin.com/in/leo-l-29171422b)  
-🌐 **Website:** [persistence-ai.github.io/PersistenceAI](https://persistence-ai.github.io/PersistenceAI/)
+🌐 **Website:** [persistence-ai.github.io/Landing](https://persistence-ai.github.io/Landing/)
 
 </div>
 
