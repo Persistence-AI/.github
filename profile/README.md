@@ -46,7 +46,7 @@
 
 ## 🤖 Agent 0: Intelligent AI Enhancement
 
-**Agent 0** (slashed zero) is PersistenceAI's proprietary intelligent enhancement layer that automatically improves your AI coding experience through continuous learning and optimization. It works transparently in the background, making your AI assistant smarter with every session.
+**Agent 0** is PersistenceAI's proprietary intelligent enhancement layer that automatically improves your AI coding experience through continuous learning and optimization. It works transparently in the background, making your AI assistant smarter with every session.
 
 ### 🎯 Key Features
 
