@@ -40,13 +40,13 @@
 - **🧠 Persistent Context** - AI agents remember your project context across sessions
 - **🏢 Enterprise-Ready** - Built for professional development teams with production-grade reliability
 - **🔌 Flexible Integration** - Support for local models (Ollama) and cloud providers (OpenAI, Anthropic, Google, etc.)
-- **🚀 Agent Zero** - Proprietary intelligent enhancement layer that continuously improves AI performance
+- **🚀 Agent 0** - Proprietary intelligent enhancement layer that continuously improves AI performance
 
 ---
 
-## 🤖 Agent Zero: Intelligent AI Enhancement
+## 🤖 Agent 0: Intelligent AI Enhancement
 
-**Agent Zero** is PersistenceAI's proprietary intelligent enhancement layer that automatically improves your AI coding experience through continuous learning and optimization. It works transparently in the background, making your AI assistant smarter with every session.
+**Agent 0** (slashed zero) is PersistenceAI's proprietary intelligent enhancement layer that automatically improves your AI coding experience through continuous learning and optimization. It works transparently in the background, making your AI assistant smarter with every session.
 
 ### 🎯 Key Features
 
@@ -64,7 +64,7 @@ Monitors tool usage and prevents common mistakes. **Result:** 40-50% reduction i
 
 ### 📊 Performance Improvements
 
-After extensive testing, Agent Zero delivers:
+After extensive testing, Agent 0 delivers:
 
 - **Code Quality:** +20-30% improvement
 - **Error Reduction:** -50-70% fewer errors
@@ -74,7 +74,7 @@ After extensive testing, Agent Zero delivers:
 
 ### ⚡ Minimal Overhead
 
-Agent Zero is designed to be lightweight and efficient:
+Agent 0 is designed to be lightweight and efficient:
 
 - **Memory:** +8-20MB (12-20% increase)
 - **Storage:** +2-18MB (<1% typical usage)
@@ -85,13 +85,13 @@ Agent Zero is designed to be lightweight and efficient:
 
 ### 🚀 Getting Started
 
-Agent Zero is **pre-configured and enabled by default** in the latest PersistenceAI version. No configuration needed - it works automatically out of the box!
+Agent 0 is **pre-configured and enabled by default** in the latest PersistenceAI version. No configuration needed - it works automatically out of the box!
 
 The system is optimized for the best performance and begins learning from your first session. Simply update to the latest version and start coding - you'll notice the improvements immediately.
 
 ### 🔄 How It Works
 
-Agent Zero operates transparently in the background:
+Agent 0 operates transparently in the background:
 
 1. **During Sessions:** Monitors tool usage, tracks performance metrics
 2. **After Sessions:** Extracts notes, analyzes patterns, identifies improvements
@@ -108,7 +108,7 @@ Agent Zero operates transparently in the background:
 
 ### 🔒 Enterprise-Grade
 
-Agent Zero is a proprietary PersistenceAI feature designed for enterprise use:
+Agent 0 is a proprietary PersistenceAI feature designed for enterprise use:
 
 - **Privacy-Focused:** All learning happens locally on your machine
 - **Secure:** No external data transmission for enhancement features
