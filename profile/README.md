@@ -283,6 +283,7 @@ flowchart TB
         CE["Context Engine<br/>• Prompt Build<br/>• Agent Select<br/>• Tool Routing"]
         MS["Memory System<br/>• Episodic<br/>• Semantic<br/>• Session State"]
         TD["Task Decomp<br/>• Hierarchical<br/>• Recursive<br/>• Validation"]
+        A0["Agent 0 Layer<br/>• Hierarchical Memory<br/>• Persistent Notes<br/>• Meta-Agent Refinement<br/>• Tool Control"]
         VC["Voting & Consensus<br/>(Oligarchy Agent)"]
     end
     
@@ -314,9 +315,10 @@ flowchart TB
     A3 --> Orchestrator
     A4 --> Orchestrator
     
-    CE --> VC
-    MS --> VC
-    TD --> VC
+    CE --> A0
+    MS --> A0
+    TD --> A0
+    A0 --> VC
     
     VC --> Tools
     F --> IDE
